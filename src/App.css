@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background: rgba(146, 153, 151, 0.5);  /* fallback for old browsers */
+  background: rgba(146, 153, 151, 0.5);  /* Chrome 10-25, Safari 5.1-6 */
+  background:rgba(146, 153, 151, 0.5);
+}
+.form-container {
+  background: #fff;
+  border-radius: 20px;
+  padding: 30px 80px;
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: 0 15px 16px .17px rgba(0,0,0,0.05);
+}
+
+h1 {
+  text-align: center;
+}
